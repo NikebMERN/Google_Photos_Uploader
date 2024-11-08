@@ -1,0 +1,3 @@
+2024-11-08 21:16:39,802 - INFO - Starting Google Photos Uploader
+2024-11-08 21:17:14,323 - INFO - "GET /?state=baFNo0KFxnUCmDYYQ6JryaW164HEol&code=4/0AVG7fiTuj7MF9OL5Hvk5qpmIXYUnblGfFVdZyGYBjyfwxCdW3uexoJz7uduX7aXEtQyptQ&scope=https://www.googleapis.com/auth/photoslibrary.appendonly HTTP/1.1" 200 65
+2024-11-08 21:17:33,227 - INFO - Upload completed.

@@ -1,0 +1,14 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore credentials and sensitive data
+config/credentials.json
+logs/upload.log
+
+# Ignore system files
+.DS_Store
